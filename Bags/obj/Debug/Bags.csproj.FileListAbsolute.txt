@@ -1,0 +1,7 @@
+C:\Users\jokjur1\source\repos\Bags\Bags\bin\Debug\Bags.exe.config
+C:\Users\jokjur1\source\repos\Bags\Bags\bin\Debug\Bags.exe
+C:\Users\jokjur1\source\repos\Bags\Bags\bin\Debug\Bags.pdb
+C:\Users\jokjur1\source\repos\Bags\Bags\obj\Debug\Bags.csprojAssemblyReference.cache
+C:\Users\jokjur1\source\repos\Bags\Bags\obj\Debug\Bags.csproj.CoreCompileInputs.cache
+C:\Users\jokjur1\source\repos\Bags\Bags\obj\Debug\Bags.exe
+C:\Users\jokjur1\source\repos\Bags\Bags\obj\Debug\Bags.pdb
